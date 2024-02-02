@@ -1,3 +1,4 @@
 git touch a.txt
 git add .
 git commit
+close();
