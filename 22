@@ -1,1 +1,7 @@
 fdsgadfgadga
+git touch a.txt
+git status
+git status -s
+git log
+git add .
+git commit
